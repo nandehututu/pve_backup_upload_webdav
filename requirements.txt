@@ -1,0 +1,6 @@
+requests==2.32.3
+paramiko==3.4.1
+tqdm
+scp
+psutil
+webdavclient3
